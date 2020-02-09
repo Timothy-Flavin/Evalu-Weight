@@ -11,7 +11,7 @@
     </p>
     </div>
     <h1>Further Develoment</h1>
-    <p>Upon Tim's Joining Evalu-Weight consolted a number of business oriented individuals about starting a company. Clay began 
+    <p>Upon Tim's Joining Evalu-Weight consolted a number of business oriented individuals about starting a company and with consultation from one John Dickey about hosting a website. Clay began 
       more intensive market research and Tim began to research and develope the software for Evalu-Weight's products and website. 
       Evalu-Weight is currently in the stage of research and developement.
     </p>
