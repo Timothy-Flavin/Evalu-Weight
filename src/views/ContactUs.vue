@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <h1 class="mainTitle">
-      <span class = "goldenrod">E</span>valu-<span class = "goldenrod">W</span>eight
+      Contact Information:
     </h1>
     <table class="ml-10">
       <tr>
@@ -9,10 +9,15 @@
           <img alt="Vue logo" src="../assets/WebsiteLogoTest.png">
         </td>
         <td class="leftMargin informationBox">
-          <h2>Mission: </h2>
+          <h2>Clay Moyer, CEO:</h2>
           <p class="caption whitesmoke">
-            <span class = "goldenrod">E</span>valu-<span class = "goldenrod">W</span>eight's
-            Mission is to reduce risk of injury and gymtimidation by giving instant feedback to both new and expirienced gym members.  
+            Email: placeholder 
+          </p>
+          <p class="caption whitesmoke">
+            Phone: placeholder 
+          </p>
+          <p class="caption whitesmoke">
+            Linkdin: placeholder 
           </p>
         </td>
       </tr>
@@ -23,27 +28,15 @@
           <img alt="Vue logo" src="../assets/WebsiteLogoTestBlue.png">
         </td>
         <td class="leftMargin informationBox">
-          <h2>Technology:</h2>
+          <h2>Tim Flavin, CTO:</h2>
           <p class="caption whitesmoke">
-            <span class = "goldenrod">E</span>valu-<span class = "goldenrod">W</span>eight
-            uses a convolutional neural network (CNN) powered by Google's Tensorflow for image processing.
-            The images are then used to correct poor lifting form and provide valuable statistics to end users.  
+            Email: tcf2657@gamil.com  
           </p>
-        </td>
-      </tr>
-    </table>
-    <table class="ml-10">
-      <tr>
-        <td class="imageBox">
-          <img alt="Vue logo" src="../assets/WebsiteLogoTestRed.png">
-        </td>
-        <td class="leftMargin informationBox">
-          <h2>Product:</h2>
           <p class="caption whitesmoke">
-            <span class = "goldenrod">E</span>valu-<span class = "goldenrod">W</span>eight
-            Will sell an attatchment to gym equiptment consisting of two cameras and a central computing unit
-            made to analyze and report lifting statistics. The product is currently in developement and not available
-            for purchase.
+            Phone: placeholder 
+          </p>
+          <p class="caption whitesmoke">
+            Linkdin: placeholder 
           </p>
         </td>
       </tr>
@@ -52,18 +45,6 @@
     <!--<HelloWorld msg="Welcome to Your Vue.js App"/>-->
   </div>
 </template>
-
-<script>
-// @ is an alias to /src
-//import HelloWorld from '@/components/HelloWorld.vue'
-
-export default {
-  name: 'Home',
-  components: {
-    //HelloWorld
-  }
-}
-</script>
 
 <style scoped>
 p{
